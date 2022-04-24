@@ -16,7 +16,9 @@ for .sql file
 5. then press create<br>
 6. in tool bar of phpmyadmin click import<br>
 7. on choose file, select login.sql file and click go<br><br>
-**************<br><br>
+
+
+**************
 
 8 .on path -> xampp/htdocs create a new folder named voting_system<br>
 9. copy and past all files on to above created folder<br>
@@ -27,6 +29,6 @@ Admin Logins : <br>
 NIC/PPN : 200105101033 <br>
 password : 123<br>
 
-**************************<br><br>
+**************************
 
 <br><br>
